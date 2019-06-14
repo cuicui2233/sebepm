@@ -516,7 +516,7 @@
 }
 #u33 {
   position:absolute;
-  left:950px;
+  left:949px;
   top:216px;
   width:233px;
   height:264px;
@@ -552,7 +552,7 @@
 }
 #u35 {
   position:absolute;
-  left:985px;
+  left:984px;
   top:229px;
   width:163px;
   height:25px;
@@ -583,8 +583,8 @@
 }
 #u38 {
   position:absolute;
-  left:1032px;
-  top:384px;
+  left:1031px;
+  top:385px;
   width:70px;
   height:70px;
 }
@@ -617,8 +617,8 @@
 }
 #u40 {
   position:absolute;
-  left:1017px;
-  top:457px;
+  left:1016px;
+  top:458px;
   width:100px;
   height:17px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
@@ -651,8 +651,8 @@
 }
 #u42 {
   position:absolute;
-  left:965px;
-  top:264px;
+  left:964px;
+  top:265px;
   width:205px;
   height:85px;
   font-size:12px;
@@ -694,8 +694,8 @@
 }
 #u45 {
   position:absolute;
-  left:182px;
-  top:500px;
+  left:181px;
+  top:501px;
   width:233px;
   height:264px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
@@ -730,8 +730,8 @@
 }
 #u47 {
   position:absolute;
-  left:289px;
-  top:519px;
+  left:288px;
+  top:520px;
   width:37px;
   height:25px;
   font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';
@@ -762,8 +762,8 @@
 }
 #u49 {
   position:absolute;
-  left:196px;
-  top:554px;
+  left:195px;
+  top:555px;
   width:205px;
   height:85px;
   font-size:12px;
@@ -792,8 +792,8 @@
 }
 #u51 {
   position:absolute;
-  left:219px;
-  top:694px;
+  left:218px;
+  top:695px;
   width:160px;
   height:50px;
   font-size:16px;
@@ -835,7 +835,7 @@
 }
 #u54 {
   position:absolute;
-  left:182px;
+  left:181px;
   top:111px;
   width:333px;
   height:84px;
@@ -875,7 +875,7 @@
 }
 #u56 {
   position:absolute;
-  left:515px;
+  left:514px;
   top:111px;
   width:333px;
   height:84px;
@@ -915,7 +915,7 @@
 }
 #u58 {
   position:absolute;
-  left:849px;
+  left:848px;
   top:111px;
   width:333px;
   height:84px;
@@ -961,7 +961,7 @@
 }
 #u61 {
   position:absolute;
-  left:694px;
+  left:693px;
   top:216px;
   width:233px;
   height:264px;
@@ -997,7 +997,7 @@
 }
 #u63 {
   position:absolute;
-  left:739px;
+  left:738px;
   top:229px;
   width:152px;
   height:25px;
@@ -1029,8 +1029,8 @@
 }
 #u65 {
   position:absolute;
-  left:708px;
-  top:264px;
+  left:707px;
+  top:265px;
   width:205px;
   height:68px;
   font-size:12px;
@@ -1059,8 +1059,8 @@
 }
 #u67 {
   position:absolute;
-  left:731px;
-  top:410px;
+  left:730px;
+  top:411px;
   width:160px;
   height:50px;
   font-size:16px;
@@ -1102,7 +1102,7 @@
 }
 #u70 {
   position:absolute;
-  left:438px;
+  left:437px;
   top:216px;
   width:233px;
   height:264px;
@@ -1123,8 +1123,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:199px;
-  height:25px;
+  width:245px;
+  height:50px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -1135,23 +1135,25 @@
   font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';
   font-weight:650;
   font-style:normal;
+  text-align:center;
 }
 #u72 {
   position:absolute;
-  left:459px;
+  left:432px;
   top:229px;
-  width:199px;
-  height:25px;
+  width:245px;
+  height:50px;
   font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';
   font-weight:650;
   font-style:normal;
+  text-align:center;
 }
 #u73 {
   position:absolute;
   left:0px;
   top:0px;
-  width:199px;
-  white-space:nowrap;
+  width:245px;
+  word-wrap:break-word;
 }
 #u74 {
   position:absolute;
@@ -1169,8 +1171,8 @@
 }
 #u75 {
   position:absolute;
-  left:520px;
-  top:384px;
+  left:519px;
+  top:385px;
   width:70px;
   height:70px;
 }
@@ -1203,8 +1205,8 @@
 }
 #u77 {
   position:absolute;
-  left:505px;
-  top:457px;
+  left:504px;
+  top:458px;
   width:100px;
   height:17px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
@@ -1225,7 +1227,7 @@
   left:0px;
   top:0px;
   width:205px;
-  height:133px;
+  height:85px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -1237,10 +1239,10 @@
 }
 #u79 {
   position:absolute;
-  left:456px;
-  top:264px;
+  left:452px;
+  top:290px;
   width:205px;
-  height:133px;
+  height:85px;
   font-size:12px;
 }
 #u80 {
@@ -1280,7 +1282,7 @@
 }
 #u82 {
   position:absolute;
-  left:182px;
+  left:181px;
   top:216px;
   width:233px;
   height:264px;
@@ -1302,7 +1304,7 @@
   left:0px;
   top:0px;
   width:221px;
-  height:25px;
+  height:50px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -1317,10 +1319,10 @@
 }
 #u84 {
   position:absolute;
-  left:191px;
+  left:190px;
   top:229px;
   width:221px;
-  height:25px;
+  height:50px;
   font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';
   font-weight:650;
   font-style:normal;
@@ -1338,7 +1340,7 @@
   left:0px;
   top:0px;
   width:205px;
-  height:68px;
+  height:85px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -1350,10 +1352,10 @@
 }
 #u86 {
   position:absolute;
-  left:196px;
-  top:264px;
+  left:195px;
+  top:290px;
   width:205px;
-  height:68px;
+  height:85px;
   font-size:12px;
 }
 #u87 {
@@ -1380,8 +1382,8 @@
 }
 #u88 {
   position:absolute;
-  left:219px;
-  top:410px;
+  left:218px;
+  top:411px;
   width:160px;
   height:50px;
   font-size:16px;
