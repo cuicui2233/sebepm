@@ -96,8 +96,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:242px;
-  height:28px;
+  width:613px;
+  height:25px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -108,24 +108,24 @@
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
   font-weight:700;
   font-style:normal;
-  font-size:20px;
+  color:#38B7FF;
 }
 #u6 {
   position:absolute;
-  left:858px;
-  top:36px;
-  width:242px;
-  height:28px;
+  left:487px;
+  top:38px;
+  width:613px;
+  height:25px;
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
   font-weight:700;
   font-style:normal;
-  font-size:20px;
+  color:#38B7FF;
 }
 #u7 {
   position:absolute;
   left:0px;
   top:0px;
-  width:242px;
+  width:613px;
   white-space:nowrap;
 }
 #u8 {
